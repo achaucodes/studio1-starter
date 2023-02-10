@@ -1,4 +1,4 @@
-import { createApp, Vue } from "https://mavue.mavo.io/mavue.js";
+import { createApp} from "https://mavue.mavo.io/mavue.js";
 
 let app = createApp({
 	data: {
